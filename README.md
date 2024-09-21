@@ -7,7 +7,7 @@
 
 - Member at **Saudi Youth Opportunity** and **Nauatech**
 
-- 🔭 I’m currently working at **Smart City Program (IoT)**
+- 🔭 I’m currently working at **Building new projects and Power BI**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Sciense**
 
