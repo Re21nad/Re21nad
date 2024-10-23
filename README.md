@@ -17,15 +17,23 @@
 
 <h3 align="left">My Focus on:</h3>
 - Data Analysis
-- Data Analysis
+
 - Data Science
+
 - Data Visualization
+
 - Data Modeling
+
 - Artificial Intelligence (AI)
+
 - Machine Learning (ML)
+
 - Deep Learning (DL)
+
 - Business Intelligence
+
 - Digital Transformation
+
 - Project Management
 
 <h3 align="left">Connect with me:</h3>
