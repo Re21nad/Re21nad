@@ -15,6 +15,18 @@
 
 - ⚡ Fun fact **I'm funny, hardworking and learning new things!!!**
 
+<h3 align="left">My Focus on:</h3>
+- Data Analysis
+- Data Science
+- Data Visualization
+- Data Modeling
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Business Intelligence
+- Digital Transformation
+- Project Management
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/filfilan_renad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filfilan_renad" height="30" width="40" /></a>
