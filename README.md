@@ -17,6 +17,7 @@
 
 <h3 align="left">My Focus on:</h3>
 - Data Analysis
+- Data Analysis
 - Data Science
 - Data Visualization
 - Data Modeling
