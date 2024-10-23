@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I'm funny, hardworking and learning new things!!!**
 
 <h3 align="left">My Focus on:</h3>
+
 - Data Analysis
 
 - Data Science
