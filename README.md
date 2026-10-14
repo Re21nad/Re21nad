@@ -3,39 +3,34 @@
 
 [![](https://visitcount.itsvg.in/api?id=Re21nad&icon=0&color=10)](https://visitcount.itsvg.in)
 
-- Studied **Computer Science** at King Abdulaziz University in Jeddah
+I'm a Computer Science graduate from King Abdulaziz University with professional experience in AI-powered conversational solutions and a strong interest in building intelligent, practical, and research-driven systems.
 
-- Member at **Saudi Youth Opportunity** and **Nauatech**
-
-- 🔭 I’m currently working at **Building new projects and Power BI**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Sciense**
+My work and interests focus on bridging the gap between AI research and real-world applications, with particular interest in Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), and AI Agents.
 
 - 📫 How to reach me **renadfilfilan3@gmail.com**
 
 - ⚡ Fun fact **I'm funny, hardworking and learning new things!!!**
 
-<h3 align="left">My Focus on:</h3>
+<h3 align="left">🔬 Areas of Interest</h3>
 
-- Data Analysis
+- <b>Generative AI & LLMs:</b> LLM applications, retrieval-based systems, and conversational AI.
+- <b>AI Agents:</b> Agent workflows, tool integration, and intelligent automation.
+- <b>Machine Learning & Deep Learning:</b> Model development, experimentation, and evaluation.
+- <b>Natural Language Processing:</b> Arabic NLP and language-focused AI applications.
+- <b>AI Research:</b> Exploring research questions, evaluating approaches, and translating ideas into practical implementations.
 
-- Data Science
+<h3 align="left">🚀 Featured Projects</h3>
 
-- Data Visualization
+- <b>Mushakkil</b> — An AI project focused on Arabic text diacritization and data preparation for NLP model development.
+- <b>Safe Driving 101</b> — A smart driving education project featuring adaptive assessment and personalized feedback.
 
-- Data Modeling
+<h3 align="left">🛠️ Technical Skills</h3>
 
-- Artificial Intelligence (AI)
-
-- Machine Learning (ML)
-
-- Deep Learning (DL)
-
-- Business Intelligence
-
-- Digital Transformation
-
-- Project Management
+- <b>Programming:</b> Python, JavaScript, Java
+- <b>AI & ML:</b> Machine Learning, Deep Learning, NLP, Computer Vision
+- <b>AI Development:</b> LLM applications, conversational AI, API integration
+- <b>Data & Analytics:</b> Data preprocessing, analysis, visualization, and model evaluation
+- <b>Tools & Platforms:</b> Git, Jupyter Notebook, and relevant AI/ML frameworks
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -48,7 +43,9 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Re21nad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Re21nad&theme=midnight-purple&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Re21nad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
